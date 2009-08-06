@@ -1,5 +1,4 @@
-
-= text_converter
+= text-converter
 
 
 == Description

@@ -14,11 +14,11 @@ include FileUtils
 $LOAD_PATH.unshift "lib"
 require "text_converter"
 
-NAME              = "text_converter"
+NAME              = "text-converter"
 AUTHOR            = "youpy"
 EMAIL             = "youpy@buycheapviagraonlinenow.com"
 DESCRIPTION       = ""
-RUBYFORGE_PROJECT = "text_converter"
+RUBYFORGE_PROJECT = "text-converter"
 HOMEPATH          = "http://#{RUBYFORGE_PROJECT}.rubyforge.org"
 BIN_FILES         = %w(  )
 VERS              = '0.0.1'
