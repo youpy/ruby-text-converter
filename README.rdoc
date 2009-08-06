@@ -8,18 +8,22 @@
 
 === Archive Installation
 
-	rake install
+ rake install
 
 === Gem Installation
 
-	gem install text_converter
-
+ gem sources -a http://gems.github.com/  
+ gem install youpy-text-converter
 
 == Features/Problems
 
 
 == Synopsis
 
+ require 'text_converter'
+
+ converter = TextConverter.new
+ converter.convert('アレ', 'テストです') #=> 'アレです'
 
 == Copyright
 
