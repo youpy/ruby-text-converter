@@ -1,0 +1,29 @@
+
+= text_converter
+
+
+== Description
+
+
+== Installation
+
+=== Archive Installation
+
+	rake install
+
+=== Gem Installation
+
+	gem install text_converter
+
+
+== Features/Problems
+
+
+== Synopsis
+
+
+== Copyright
+
+Author::    youpy <youpy@buycheapviagraonlinenow.com>
+Copyright:: Copyright (c) 2009 youpy
+License::   MIT

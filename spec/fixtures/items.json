@@ -1,0 +1,496 @@
+[
+  {
+    "name": "Integrated alphabets",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-06-17T00:17:59+09:00",
+    "created_by": "fuba",
+    "resource_url": "http:\/\/wedata.net\/items\/29141",
+    "data": {
+      "url": "http:\/\/phji.net\/conv\/integrate.php?q=%s",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": "id(\"output\")"
+    },
+    "created_at": "2009-06-17T00:17:59+09:00"
+  },
+  {
+    "name": "\u30b1\u30b7\u30dd\u30f3(\u30dc\u30af\u30b5\u30fc)",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-06-10T10:08:57+09:00",
+    "created_by": "Uchimata",
+    "resource_url": "http:\/\/wedata.net\/items\/28947",
+    "data": {
+      "url": "http:\/\/cheap.digick.jp\/remove\/bin\/keshipon.cgi?s=%s&p=(o'-')%3Do)&q=100&a&r",
+      "charset": "utf8"
+    },
+    "created_at": "2009-05-18T13:37:17+09:00"
+  },
+  {
+    "name": "\u30b1\u30b7\u30dd\u30f3",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-06-20T01:47:07+09:00",
+    "created_by": "fuba",
+    "resource_url": "http:\/\/wedata.net\/items\/28946",
+    "data": {
+      "url": "http:\/\/cheap.digick.jp\/remove\/bin\/keshipon.cgi?s=%s&a",
+      "charset": "utf8"
+    },
+    "created_at": "2009-05-18T11:26:59+09:00"
+  },
+  {
+    "name": "\u304a\u304b\u3057\u306a\u65e5\u672c\u8a9e",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-05-18T06:00:43+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/28944",
+    "data": {
+      "url": "http:\/\/atsushi-takayama.com\/shuffle\/?sentence=%s",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": "id(\"result\")"
+    },
+    "created_at": "2009-05-18T06:00:43+09:00"
+  },
+  {
+    "name": "\u7b11\u3044\u9854\u9854\u6587\u5b57",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-04-14T14:09:31+09:00",
+    "created_by": "ucnv",
+    "resource_url": "http:\/\/wedata.net\/items\/27838",
+    "data": {
+      "url": "http:\/\/mimitako.net\/api\/warosuapi.cgi",
+      "action": "append",
+      "charset": "utf8",
+      "xpath": "\/\/str\/text()"
+    },
+    "created_at": "2009-04-14T14:06:22+09:00"
+  },
+  {
+    "name": "\u691c\u7d22\u907f\u3051",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-07-01T02:04:06+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/27497",
+    "data": {
+      "url": "http:\/\/unsearchablize.jgate.de\/convert?q=%s",
+      "charset": "utf8"
+    },
+    "created_at": "2009-03-17T01:31:15+09:00"
+  },
+  {
+    "name": "pikachu(lang:ja)",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-06-20T20:10:01+09:00",
+    "created_by": "ucnv",
+    "resource_url": "http:\/\/wedata.net\/items\/27397",
+    "data": {
+      "url": "http:\/\/query.yahooapis.com\/v1\/public\/yql?q=use%20%22http%3A%2F%2Fgist.github.com%2F133124.txt%22%20as%20cvt%3B%0Aselect%20*%20from%20cvt%20where%20q%3D%22%s%22&format=xml",
+      "charset": "utf8",
+      "xpath": "\/\/results\/result\/text()"
+    },
+    "created_at": "2009-03-09T14:32:21+09:00"
+  },
+  {
+    "name": "\u304b\u306a\u6f22\u5b57\u5909\u63db",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-07-01T02:04:41+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/27308",
+    "data": {
+      "url": "http:\/\/kana-to-kanji.jgate.de\/convert?q=%s",
+      "charset": "utf8"
+    },
+    "created_at": "2009-03-03T00:01:38+09:00"
+  },
+  {
+    "name": "prefix + gobi",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-07-01T02:05:00+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/27205",
+    "data": {
+      "url": "http:\/\/prefix-gobi.jgate.de\/convert?q=%s",
+      "charset": "utf8"
+    },
+    "created_at": "2009-02-20T15:07:45+09:00"
+  },
+  {
+    "name": "\u8aa4\u5b57",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-02-10T00:25:14+09:00",
+    "created_by": "negipo",
+    "resource_url": "http:\/\/wedata.net\/items\/27037",
+    "data": {
+      "url": "http:\/\/goji.polog.org\/api\/get.plain?rate=1&sentence=%s",
+      "charset": "utf8"
+    },
+    "created_at": "2009-02-10T00:20:48+09:00"
+  },
+  {
+    "name": "append-gobi",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-07-01T18:55:26+09:00",
+    "created_by": "fuba",
+    "resource_url": "http:\/\/wedata.net\/items\/27031",
+    "data": {
+      "url": "http:\/\/append-gobi.jgate.de\/convert?q=%s",
+      "charset": "utf8"
+    },
+    "created_at": "2009-02-09T17:47:30+09:00"
+  },
+  {
+    "name": "\u30a2\u30ec",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-07-01T02:05:19+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/26941",
+    "data": {
+      "url": "http:\/\/areare.jgate.de\/convert?q=%s",
+      "charset": "utf8"
+    },
+    "created_at": "2009-02-03T01:24:21+09:00"
+  },
+  {
+    "name": "Motsu",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-07-01T02:05:34+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/26429",
+    "data": {
+      "url": "http:\/\/motsu.jgate.de\/?text=%s",
+      "charset": "utf8"
+    },
+    "created_at": "2008-12-16T17:41:13+09:00"
+  },
+  {
+    "name": "IT\u7528\u8a9e",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-10-19T02:53:07+09:00",
+    "created_by": "negipo",
+    "resource_url": "http:\/\/wedata.net\/items\/2875",
+    "data": {
+      "url": "http:\/\/it.polog.org\/api?sentence=%s",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": ""
+    },
+    "created_at": "2008-10-19T02:53:07+09:00"
+  },
+  {
+    "name": "\u30da\u30f3\u30d1\u30f3(kkshow)",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-09-09T00:46:23+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/2466",
+    "data": {
+      "url": "http:\/\/phji.net\/conv\/penpan.php?c=2&q=%s",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": "\/\/div[@id=\"output\"]"
+    },
+    "created_at": "2008-09-09T00:46:23+09:00"
+  },
+  {
+    "name": "\u30da\u30f3\u30d1\u30f3(youpy)",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-09-09T00:45:54+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/2465",
+    "data": {
+      "url": "http:\/\/phji.net\/conv\/penpan.php?c=1&q=%s",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": "\/\/div[@id=\"output\"]"
+    },
+    "created_at": "2008-09-09T00:45:54+09:00"
+  },
+  {
+    "name": "\u30a2\u30f3\u30b0\u30e9\u30b5\u30a4\u30c8",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-02-08T04:04:55+09:00",
+    "created_by": "fuba",
+    "resource_url": "http:\/\/wedata.net\/items\/1666",
+    "data": {
+      "url": "http:\/\/phji.net\/neta\/angura.php?get=%s",
+      "charset": "utf8",
+      "xpath": "\/\/div[@id=\"output\"]\/p"
+    },
+    "created_at": "2008-06-10T20:41:01+09:00"
+  },
+  {
+    "name": "\u30af\u30ea\u30ea\u30f3\u30ce\u30b3\u30c8\u30ab\u30fc",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2009-02-08T04:05:21+09:00",
+    "created_by": "fuba",
+    "resource_url": "http:\/\/wedata.net\/items\/1657",
+    "data": {
+      "url": "http:\/\/phji.net\/neta\/kuririn.php?get=%s",
+      "charset": "utf8",
+      "xpath": "\/\/div[@id=\"output\"]\/p"
+    },
+    "created_at": "2008-06-09T21:16:27+09:00"
+  },
+  {
+    "name": "dice",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-05-22T16:58:57+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/1553",
+    "data": {
+      "url": "http:\/\/fuba.moaningnerds.org\/dice\/",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": ""
+    },
+    "created_at": "2008-05-22T16:58:57+09:00"
+  },
+  {
+    "name": "\u6587\u5b57\u5316\u3051TEXT2VOICE",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-22T15:09:01+09:00",
+    "created_by": "fuba",
+    "resource_url": "http:\/\/wedata.net\/items\/875",
+    "data": {
+      "url": "http:\/\/fuba.moaningnerds.org\/kkshow_decode\/voice.cgi?%s",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": ""
+    },
+    "created_at": "2008-04-22T15:09:01+09:00"
+  },
+  {
+    "name": "TEXT2VOICE",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-22T13:16:47+09:00",
+    "created_by": "ucnv",
+    "resource_url": "http:\/\/wedata.net\/items\/871",
+    "data": {
+      "url": "http:\/\/api.satoru.net\/text2voice\/?text=%s",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": ""
+    },
+    "created_at": "2008-04-22T13:16:47+09:00"
+  },
+  {
+    "name": "\u643a\u5e2f\u6587\u5b57\u5316\u3051",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-19T22:49:26+09:00",
+    "created_by": "fuba",
+    "resource_url": "http:\/\/wedata.net\/items\/804",
+    "data": {
+      "url": "http:\/\/fuba.moaningnerds.org\/kkshow_decode\/encode.cgi?%s",
+      "charset": "utf8",
+      "lang": "",
+      "xpath": ""
+    },
+    "created_at": "2008-04-19T22:36:40+09:00"
+  },
+  {
+    "name": "\u82f1\u65e5\u7ffb\u8a33",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:57:01+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/781",
+    "data": {
+      "url": "http:\/\/translate.google.com\/translate_t?langpair=en|ja&text=%s",
+      "charset": "utf8",
+      "xpath": "\/\/div[@id=\"result_box\"]"
+    },
+    "created_at": "2008-04-16T19:57:01+09:00"
+  },
+  {
+    "name": "\u82e5\u65e6\u90a3\u98a8",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:57:01+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/780",
+    "data": {
+      "url": "http:\/\/www.edo.net\/goinkyo\/cgi-bin\/sun.cgi?tion=regist&comment=%s",
+      "charset": "sjis",
+      "xpath": "(\/\/font[@size=\"+1\"])[2]"
+    },
+    "created_at": "2008-04-16T19:57:01+09:00"
+  },
+  {
+    "name": "\u82b1\u9b41",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:57:01+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/779",
+    "data": {
+      "url": "http:\/\/www.edo.net\/goinkyo\/cgi-bin\/urasato.cgi?tion=regist&comment=%s",
+      "charset": "sjis",
+      "xpath": "(\/\/font[@size=\"+1\"])[2]"
+    },
+    "created_at": "2008-04-16T19:57:01+09:00"
+  },
+  {
+    "name": "\u6c5f\u6238\u3063\u5b50",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:57:00+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/778",
+    "data": {
+      "url": "http:\/\/www.edo.net\/goinkyo\/cgi-bin\/edo_1.cgi?tion=regist&comment=%s",
+      "charset": "sjis",
+      "xpath": "(\/\/font[@size=\"+1\"])[2]"
+    },
+    "created_at": "2008-04-16T19:57:00+09:00"
+  },
+  {
+    "name": "\u65e5\u82f1\u7ffb\u8a33",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:57:00+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/777",
+    "data": {
+      "url": "http:\/\/translate.google.com\/translate_t?langpair=ja|en&text=%s",
+      "charset": "utf8",
+      "xpath": "\/\/div[@id=\"result_box\"]"
+    },
+    "created_at": "2008-04-16T19:57:00+09:00"
+  },
+  {
+    "name": "\u65e5\u4e2d\u7ffb\u8a33(\u518d\u7ffb\u8a33)",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:57:00+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/776",
+    "data": {
+      "url": "http:\/\/www.excite.co.jp\/world\/chinese\/?before=%s&wb_lp=JACH&big5=no&reverse_option=yes",
+      "charset": "utf8",
+      "xpath": "(\/\/textarea)[3]"
+    },
+    "created_at": "2008-04-16T19:57:00+09:00"
+  },
+  {
+    "name": "\u65e5\u4e2d\u7ffb\u8a33",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:57:00+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/775",
+    "data": {
+      "url": "http:\/\/www.excite.co.jp\/world\/chinese\/?before=%s&wb_lp=JACH&big5=no",
+      "charset": "utf8",
+      "xpath": "(\/\/textarea)[2]"
+    },
+    "created_at": "2008-04-16T19:57:00+09:00"
+  },
+  {
+    "name": "\u65cf\u8a00\u8449",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:57:00+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/774",
+    "data": {
+      "url": "http:\/\/home.lib.net\/usr1\/magi\/zoku\/zoku.cgi?action=regist&word=%s",
+      "charset": "sjis",
+      "xpath": "\/\/font[@size=\"6\"]"
+    },
+    "created_at": "2008-04-16T19:57:00+09:00"
+  },
+  {
+    "name": "\u5bcc\u5c71\u5f01",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:56:59+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/773",
+    "data": {
+      "url": "http:\/\/www.bea.hi-ho.ne.jp\/cgi-bin\/user\/omizu\/bunhen.cgi?bunsyo=%s",
+      "charset": "euc"
+    },
+    "created_at": "2008-04-16T19:56:59+09:00"
+  },
+  {
+    "name": "\u5927\u962a\u5f01",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:56:59+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/772",
+    "data": {
+      "url": "http:\/\/www.yansite.net\/osaka.cgi?command=%s",
+      "charset": "euc",
+      "xpath": "\/\/pre"
+    },
+    "created_at": "2008-04-16T19:56:59+09:00"
+  },
+  {
+    "name": "\u535a\u591a\u5f01",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:56:59+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/771",
+    "data": {
+      "url": "http:\/\/www.gem.hi-ho.ne.jp\/cgi-bin\/user\/rumiko\/bunhen.cgi?bunsyo=%s",
+      "charset": "sjis"
+    },
+    "created_at": "2008-04-16T19:56:59+09:00"
+  },
+  {
+    "name": "\u30eb\u30fc\u8a9e",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:56:59+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/770",
+    "data": {
+      "url": "http:\/\/lou5.jp\/?v=1&text=%s",
+      "charset": "utf8",
+      "xpath": "\/\/p[@class=\"large align-left box\"]"
+    },
+    "created_at": "2008-04-16T19:56:59+09:00"
+  },
+  {
+    "name": "\u30ae\u30e3\u30eb\u6587\u5b57",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:56:58+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/769",
+    "data": {
+      "url": "http:\/\/wolfside.com\/i\/x\/henkan.php?to=0&mes=%s",
+      "charset": "sjis",
+      "xpath": "\/\/textarea"
+    },
+    "created_at": "2008-04-16T19:56:58+09:00"
+  },
+  {
+    "name": "\u30aa\u30f3\u30c9\u30a5\u30eb\u8a9e",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:56:58+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/768",
+    "data": {
+      "url": "http:\/\/flexfrank.net\/cgi\/ondl\/index.cgi?word=%s",
+      "charset": "sjis",
+      "xpath": "\/\/p[@class=\"result\"]"
+    },
+    "created_at": "2008-04-16T19:56:58+09:00"
+  },
+  {
+    "name": "\u30a2\u30eb\u30d9\u30c9\u8a9e",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:56:57+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/767",
+    "data": {
+      "url": "http:\/\/scene.vis.ne.jp\/ff10\/data\/arubedo.cgi?text=%s&btn1=%95%CF%8A%B7%82%B7%82%E9&mode=mode1&pagetype=on",
+      "charset": "sjis",
+      "xpath": "(\/\/td)[1]",
+      "lang": "albed"
+    },
+    "created_at": "2008-04-16T19:56:57+09:00"
+  },
+  {
+    "name": "pikachu(english only)",
+    "database_resource_url": "http:\/\/wedata.net\/databases\/Text%20Conversion%20Services",
+    "updated_at": "2008-04-16T19:56:57+09:00",
+    "created_by": "youpy",
+    "resource_url": "http:\/\/wedata.net\/items\/766",
+    "data": {
+      "url": "http:\/\/pikachize.eye-of-newt.com\/pika.cgi?text=%s",
+      "charset": "utf8",
+      "xpath": "\/\/pre"
+    },
+    "created_at": "2008-04-16T19:56:57+09:00"
+  }
+]
