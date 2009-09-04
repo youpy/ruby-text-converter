@@ -70,7 +70,7 @@ class TextConverter
     end
 
     def parse(result)
-      if xpath
+      if xpath && !xpath.empty?
         doctype = '<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">'
         html = Nokogiri::HTML.parse(doctype + result, nil, 'utf-8')
         result = html.xpath(xpath).text
